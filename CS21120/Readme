@@ -1,0 +1,9 @@
+This is the code for the CS21120 tournment app crucially I was required not to use any
+java util other than:-
+  *import java.util.ArrayList;
+  *import java.util.Scanner;
+
+The files in "bpt/cs21120/assignment1" make up the framework I was provided and needed to
+provide the queue and priority queue from. 
+
+The files in "rob41/cs21120/assignment1" implement the interface provided in IManager class 
